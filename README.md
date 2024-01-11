@@ -10,9 +10,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melikbakikul/)](https://www.linkedin.com/in/melikbakikul/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melik_kul)](https://twitter.com/melik_kul)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/melik_kul/)](https://instagram.com/melik_kul)
+[![Linkedin Badge](https://img.shields.io/badge/-Melik%20Baki%20Kul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melikbakikul/)](https://www.linkedin.com/in/melikbakikul/)
+[![Twitter Badge](https://img.shields.io/badge/-@melik_kul-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melik_kul)](https://twitter.com/melik_kul)
+[![Instagram Badge](https://img.shields.io/badge/-@melik_kul-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/melik_kul/)](https://instagram.com/melik_kul)
 [![Gmail Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:melik_kul@outlook.com)](mailto:melik_kul@outlook.com)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/melikkul)
 <img src="https://komarev.com/ghpvc/?username=melikkul" alt="melikkul" />
