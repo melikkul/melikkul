@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/melikbakikul/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melik%20Baki%20Kul-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/melik_kul/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-melik_kul-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:melik_kul@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-melik_kul@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:melik_kul@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-melik_kul@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
