@@ -10,11 +10,12 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/melikbakikul/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melik%20Baki%20Kul-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/melik_kul/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-melik_kul-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:melik_kul@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-melik_kul@outlook.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melikbakikul/)](https://www.linkedin.com/in/melikbakikul/)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melik_kul)](https://twitter.com/melik_kul)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/melik_kul/)](https://instagram.com/melik_kul)
+[![Gmail Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white&link=mailto:melik_kul@outlook.com)](mailto:melik_kul@outlook.com)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/melikkul)
+<img src="https://komarev.com/ghpvc/?username=melikkul" alt="melikkul" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
